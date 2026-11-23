@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "FedPhase: Degradation-Phase-Guided Federated Learning for Battery State-of-Health Estimation"
+authors:
+  - family-names: "<SURNAME>"
+    given-names: "Jimi"
+repository-code: "<GITHUB URL>"
+license: MIT

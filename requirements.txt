@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch>=2.0
+flwr>=1.5,<2.0   # Flower 1.x API (fl.server / fl.client); pin to the exact version you ran with
