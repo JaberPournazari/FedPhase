@@ -44,6 +44,7 @@ Cluster layout: `$ROOT/{fedphase,data1,data2}` (`ROOT` defaults to `$HOME/fedpha
 Run every script from its own `hpc/<group>/` folder. Overrides: `ROOT PARTS ROUNDS(100) EPOCHS(3) SEQ(10) TRAIN_FRAC(0.3) VAL_FRAC(0.1) SEEDS CLIENT_NODES(4) CONDA_ENV(fedphase)`.
 
 ```bash
+
 # MIT-140 main results
 cd hpc/data2_main && mkdir -p logs
 sbatch job_smoke.slurm                 # sanity check, all methods, 3 rounds
