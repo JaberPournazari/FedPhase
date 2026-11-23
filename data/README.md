@@ -3,7 +3,7 @@
 ## MIT-140 (data2)
 Per-cell CSVs with engineered features (`Cell_<i>.csv`, i = 0..139; 27 inputs, target `QD`), derived from the public
 MIT–Stanford–Toyota fast-charging battery dataset (Severson et al., *Nature Energy* 2019; Attia et al., *Nature* 2020).
-Download: **<ADD ZENODO / GITHUB RELEASE URL>** → unzip to `data/data2/` (or set `DATA_DIR`).
+Download: **<ADD availability statement / GITHUB RELEASE URL>** → unzip to `data/data2/` (or set `DATA_DIR`).
 Check: `ls data/data2/Cell_*.csv | wc -l` → 140.
 
 ## WMG-15 (data1)
